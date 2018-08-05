@@ -1,0 +1,141 @@
+
+html{
+        font-size: 14px;
+}    
+body{
+    font-family: 'Dosis', sans-serif;
+    background-image: url(./img/band-background.jpeg);
+    font-weight: 500;
+
+}
+body.bimg-1{
+    background-image: url(./img/Blur/balb-1.jpeg);
+}
+body.bimg-2{
+    background-image: url(./img/Blur/balb-2.jpeg);
+}
+body.bimg-3{
+    background-image: url(./img/Blur/balb-3.jpeg);
+
+}
+body.bimg-4{
+    background-image: url(./img/Blur/balb-4.jpeg);
+
+}
+body.bimg-5{
+    background-image: url(./img/Blur/balb-5.jpeg);
+
+}
+body.bimg-6{
+    background-image: url(./img/Blur/balb-6.jpeg);
+
+}
+body.bimg-7{
+    background-image: url(./img/Blur/balb-7.jpeg);
+
+}
+body.bimg-8{
+    background-image: url(./img/Blur/balb-8.jpeg);
+
+}
+body.bimg-9{
+    background-image: url(./img/Blur/balb-9.jpeg);
+
+}
+body.bimg-10{
+    background-image: url(./img/Blur/balb-10.jpeg);
+
+}
+body.bimg-11{
+    background-image: url(./img/Blur/balb-11.jpeg);
+
+}
+body.bimg-12{
+    background-image: url(./img/Blur/balb-12.jpeg);
+}
+
+.nvtxt{
+
+    text-decoration: none;
+    font-size: 2em;
+    color: rgb(59, 36, 6);
+    padding: 0 2rem;
+}
+a:hover {
+    color:antiquewhite; 
+    text-decoration:none;
+}
+.wrapper .nav{
+    justify-content: space-around; 
+}
+
+h1 , h2{
+    font-weight: 600;
+    letter-spacing: 0.2rem;
+    color: antiquewhite;
+    text-shadow: 1px 1px 2px rgb(39, 37, 38);
+}
+
+.wrapper{
+    background-image: url(./img/band-background.jpeg);
+    padding: 2%;
+    color: rgb(59, 36, 6);
+}
+
+.wrapper .table tr{
+    line-height: 2.5em;
+    font-size: 1.5rem;
+    color:  rgb(59, 36, 6);
+    justify-content: space-around;
+}
+
+.wrapper .table a{
+    color:  rgb(59, 36, 6);
+}
+.wrapper h2{
+    font-size: 2.5rem;
+}
+
+.big{
+    font-size: 1.4em;
+
+}
+.wrapper .table a:hover {
+    color:antiquewhite; 
+    text-decoration:none;
+}
+
+.iframe-container{
+    
+}
+
+.about{
+    background-image: url(./img/band-background.jpeg);
+    padding: 10%;
+    color: rgb(59, 36, 6);
+    font-size: 2em;
+    margin: 1rem 0;
+}
+
+
+.imgt-1,.imgt-2,.imgt-3,.imgt-4,.imgt-5,.imgt-6,.imgt-7,.imgt-8,.imgt-9,.imgt-10,.imgt-11,.imgt-12{
+    font-size: 1.5em;
+    line-height: 3em;
+    font-weight: 600;
+    background-color: rgb(250, 235, 215, 0.4);
+}
+
+footer li a{
+    font-size: 2em;
+    padding-bottom: 0;
+    color: rgb(59, 36, 6);
+}
+
+@media (max-width: 526px) { 
+
+    #spotmt {
+        padding-top:50%;
+    }
+    
+}
+
